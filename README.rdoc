@@ -1,7 +1,7 @@
 = Advanced Redmine Notifications
 
 E-mail notification of issues due date you are involved in (Assignee, Author, Watcher). Forked from orginal author: alvila repository.
-My fork was created to test usability of plugin for the needs of my company. I added polish translation and button localization.
+My fork was created to test usability of plugin for the needs of my company. I added polish translation.
 This fork should easy up installation of the plugin with all necessary changes to localization needed by my company.
 
 = Install
