@@ -1,10 +1,12 @@
 = Advanced Redmine Notifications
 
-E-mail notification of issues due date you are involved in (Assignee, Author, Watcher)
+E-mail notification of issues due date you are involved in (Assignee, Author, Watcher). Forked from orginal author: alvila repository.
+My fork was created to test usability of plugin for the needs of my company. I added polish translation and button localization.
+This fork should easy up installation of the plugin with all necessary changes to localization needed by my company.
 
 = Install
 
-script/plugin install git://github.com/alvila/redmine_reminder.git
+script/plugin install git://github.com/kardasa/redmine_reminder.git
 
 = Usage
 
